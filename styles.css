@@ -146,7 +146,7 @@ footer ul li img {
 
 }
 
-@media(max-width: 768px){
+@media(max-width: 412px){
     nav ul {
         flex-wrap: wrap;
         display: block;
